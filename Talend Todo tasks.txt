@@ -1,0 +1,4 @@
+adf and talend components difference
+Usage of etl tools, scenarios used
+similarities btw etl and elt
+ssis etl similarty and diff from adf
